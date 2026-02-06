@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanHolanda)](https://github.com/LuanHolanda/github-readme-stats)
+[![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
