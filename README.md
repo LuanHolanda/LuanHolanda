@@ -3,8 +3,8 @@
 [![Top Langs](https://raw.githubusercontent.com)](https://github.com)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com" width="48%" />
-  <img src="https://raw.githubusercontent.com" width="48%" />
+  <img src="profile/stats.svg" width="48%" />
+  <img src="profile/top-langs.svg" width="48%" />
 </p>
 
 
